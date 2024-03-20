@@ -4,5 +4,4 @@
 
 # Diagrama de Sequência
 
-
 ![DiagramaSequencia](https://github.com/JefersonNakayama/ExtensaoCurricular/assets/113150161/28669797-97a9-4d98-9580-e88b431b0882)
