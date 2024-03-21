@@ -8,6 +8,6 @@
 
 # Telas APP
 
-![Health Bot](https://github.com/JefersonNakayama/ExtensaoCurricular/blob/41eb5d66a8509e369e6b21962d176850e275ecf8/Health%20Bot.png)
+![Telas]([https://github.com/JefersonNakayama/ExtensaoCurricular/blob/41eb5d66a8509e369e6b21962d176850e275ecf8/Health%20Bot.png](https://github.com/JefersonNakayama/ExtensaoCurricular/blob/84b968b8bff1d2b630fd125283a7d8a63891a93c/Telas%20do%20APP.pdf)https://github.com/JefersonNakayama/ExtensaoCurricular/blob/84b968b8bff1d2b630fd125283a7d8a63891a93c/Telas%20do%20APP.pdf)
 
 
